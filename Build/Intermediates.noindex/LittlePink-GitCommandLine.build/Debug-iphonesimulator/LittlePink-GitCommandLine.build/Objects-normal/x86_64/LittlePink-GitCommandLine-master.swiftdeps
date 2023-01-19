@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "398cac18553fef281c57e35fa735f4f58d3f8dfaf92eae7cd8ff20271a3998c2"
+build_start_time: [1674148667, 601866960]
+build_end_time: [1674148669, 277020931]
+inputs:
+  "/Users/mr.z/Documents/Learning Materials/LittlePink-GitCommandLine/LittlePink-GitCommandLine/AppDelegate.swift": [1674137271, 575386047]
+  "/Users/mr.z/Documents/Learning Materials/LittlePink-GitCommandLine/LittlePink-GitCommandLine/SceneDelegate.swift": [1674137271, 580258846]
+  "/Users/mr.z/Documents/Learning Materials/LittlePink-GitCommandLine/LittlePink-GitCommandLine/ViewController.swift": [1674148667, 419322490]
